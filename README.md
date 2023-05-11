@@ -1,4 +1,4 @@
-![cover](https://github.com/cyberfrank/dafthelmets/assets/3429723/f5378074-3774-4899-8cfd-aa97fc8807c2)
+![cover](https://github.com/cyberfrank/dafthelmets/assets/3429723/385e7e2a-468f-424b-a7fd-9dfe7a833bbd)
 
 ### What's this?
 
