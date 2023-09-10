@@ -1,4 +1,4 @@
-![cover](https://github.com/cyberfrank/dafthelmets/assets/3429723/385e7e2a-468f-424b-a7fd-9dfe7a833bbd)
+![cover](https://github.com/cyberfrank/dafthelmets/assets/3429723/06f0732f-c902-4505-936a-d7fd636daac4)
 
 ### What's this?
 
@@ -9,7 +9,9 @@ None of the model files are not legally cleared in any way so please use with ca
 ### How?
 The meshes were extracted using a graphics debugger and custom export tool. 
 
-| Name | Vertices | Indices | 
-| --- | --- | --- | 
-| `tb3.obj` | 5089 | 30606 |
-| `gm08.obj` | 3513 | 21066 |
+| Name | Vertices | Normals | UVs | Faces |
+| --- | --- | --- | --- | --- |
+| `tb3.obj` | 5089 | 0 | 0 | 10202 |
+| `gm08.obj` | 3513 | 0 | 0 | 7022 |
+| `tb3_new.obj` | 5089 | 5965 | 6222 | 10202 |
+| `gm08_new.obj` | 3513 | 3957 | 4802 | 7022 |
