@@ -1,0 +1,14 @@
+newmtl tb3_helmet
+    Kd 1.0 1.0 1.0
+    Ks 0.1 0.1 0.1
+
+newmtl gm08_helmet
+    Kd 1.0 1.0 1.0
+    Ks 0.1 0.1 0.1
+
+newmtl visor
+    Kd 0.0 0.0 0.0
+    Ks 0.5 0.5 0.5
+
+newmtl grille
+    Kd 0.0 0.0 0.0

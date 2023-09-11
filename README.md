@@ -9,9 +9,9 @@ None of the model files are not legally cleared in any way so please use with ca
 ### How?
 The meshes were extracted using a graphics debugger and custom export tool. 
 
-| Name | Vertices | Normals | UVs | Faces |
-| --- | --- | --- | --- | --- |
-| `tb3.obj` | 5089 | 0 | 0 | 10202 |
-| `gm08.obj` | 3513 | 0 | 0 | 7022 |
-| `tb3_new.obj` | 5089 | 5965 | 6222 | 10202 |
-| `gm08_new.obj` | 3513 | 3957 | 4802 | 7022 |
+| Name | Vertices | Normals | UVs | Faces | Groups |
+| --- | --- | --- | --- | --- | --- |
+| `tb3.obj` | 5089 | 0 | 0 | 10202 | 0 |
+| `gm08.obj` | 3513 | 0 | 0 | 7022 | 0 | 
+| `tb3_new.obj` | 5089 | 5965 | 6222 | 10202 | 3 |
+| `gm08_new.obj` | 3513 | 3957 | 4802 | 7022 | 2 |
