@@ -1,4 +1,6 @@
-![cover](https://github.com/cyberfrank/dafthelmets/assets/3429723/06f0732f-c902-4505-936a-d7fd636daac4)
+![image](https://github.com/cyberfrank/dafthelmets/assets/3429723/3ec5ee80-df87-4379-8e37-8c0101c83efe)
+![image](https://github.com/cyberfrank/dafthelmets/assets/3429723/89f67c26-0b94-4aaa-9245-e19c375528e0)
+
 
 ### What's this?
 
