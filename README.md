@@ -15,5 +15,5 @@ The meshes were extracted using a graphics debugger and custom export tool.
 | --- | --- | --- | --- | --- | --- |
 | `tb3.obj` | 5089 | 0 | 0 | 10202 | 0 |
 | `gm08.obj` | 3513 | 0 | 0 | 7022 | 0 | 
-| `tb3_new.obj` | 5089 | 5965 | 6222 | 10202 | 3 |
-| `gm08_new.obj` | 3513 | 3957 | 4802 | 7022 | 2 |
+| `tb3_new.obj` | 5137 | 6511 | 6222 | 10242 | 3 |
+| `gm08_new.obj` | 3513 | 4243 | 4802 | 7022 | 2 |
